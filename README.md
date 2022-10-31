@@ -1,2 +1,2 @@
 # my-oracle-hotbackup-windows
-C'est une migration pour windows de la version entreprise (hotbackup sur le DDS Distant d'un SUN 450 
+It is a migration for windows of the enterprise version (hotbackup on the Remote DDS of a SUN 450
